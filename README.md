@@ -8,7 +8,7 @@
 * README.md - THIS FILE ITSELF TO SHOW THE HOMEPAGE OF THIS REPO
 
 ## CONNECT ME TO VIA
-[Facebook](http://facebook.com/trantronghieu9999)
-[Email](mailto:tronghieu6666@gmail.com)
+1. [Facebook](http://facebook.com/trantronghieu9999)
+2. [Email](mailto:tronghieu6666@gmail.com)
 
 #### © 2020 by hieutt
