@@ -23,7 +23,7 @@ public class MathUtil
             //EXCEPTED = 1
             
             System.out.println("-5! = " + hieu.util.MathUtility.getFactorial(-5));
-            
+            System.out.println("");
             //EXCEPTED: hien exception ILLEGALARGUMENTEXCEPTION
         } 
         catch (IllegalAccessException ex) 
